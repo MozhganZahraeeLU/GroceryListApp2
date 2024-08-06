@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GroceryListApp</string>
+    <string-array name="category_options">
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Dairy</item>
+        <item>Bakery</item>
+    </string-array>
+</resources>
